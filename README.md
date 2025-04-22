@@ -1,6 +1,22 @@
 <h1 align="center">Hi 👋, I'm Sameer</h1>
 <h3 align="center">A Passionate individual in the world of Data Analytics</h3>
 
+<h3 align="left">About Me:</h3>
+<p align="left">
+I'm skilled in <strong>Advanced Excel, Power BI, Tableau, MySQL, Python,</strong> and <strong>Pandas</strong>. I have hands-on experience in data cleaning, data visualization, and deriving actionable insights from complex datasets. I enjoy using data to solve real-world problems and continuously aim to enhance my analytical and technical skill set.
+</p>
+
+<h4 align="left">📌 What I’ve Learned:</h4>
+<ul>
+  <li>🔍 Performed data cleaning and transformation using <strong>Pandas</strong> and <strong>MySQL</strong></li>
+  <li>📊 Created dynamic dashboards and data visualizations using <strong>Power BI</strong> and <strong>Tableau</strong></li>
+  <li>📈 Developed analytical reports to identify trends, patterns, and business insights</li>
+  <li>📂 Worked with large datasets, applying filtering, sorting, grouping, and aggregations</li>
+  <li>💡 Gained hands-on experience in <strong>Exploratory Data Analysis (EDA)</strong> using Python libraries</li>
+  <li>⚙️ Automated repetitive data tasks using Excel VBA and Python scripting</li>
+  <li>📚 Applied statistical functions and business logic to real-world case studies</li>
+</ul>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameer-sharieff&label=Profile%20views&color=0e75b6&style=flat" alt="sameer-sharieff" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sameer-sharieff" alt="sameer-sharieff" /></a> </p>
