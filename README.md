@@ -43,7 +43,11 @@ I'm skilled in <strong>Advanced Excel, Power BI, Tableau, MySQL, Python,</strong
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/>
   </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="excel" width="40" height="40"/>
+  </a>
 </p>
+
 
 
 
