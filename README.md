@@ -46,7 +46,11 @@ I'm skilled in <strong>Advanced Excel, Power BI, Tableau, MySQL, Python,</strong
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="excel" width="40" height="40"/>
   </a>
+  <a href="https://www.google.com/sheets/about/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Sheets_2020_Logo.svg" alt="google sheets" width="40" height="40"/>
+  </a>
 </p>
+
 
 
 
