@@ -46,10 +46,10 @@ I'm skilled in <strong>Advanced Excel, Power BI, Tableau, MySQL, Python,</strong
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="excel" width="40" height="40"/>
   </a>
-  <a href="https://www.google.com/sheets/about/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Sheets_logo_%282014-2020%29.svg/512px-Google_Sheets_logo_%282014-2020%29.svg.png" alt="google sheets" width="40" height="40"/>
-  </a>
-</p>
+<a href="https://www.google.com/sheets/about/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="google sheets" width="40" height="40"/>
+</a>
+
 
 
 
